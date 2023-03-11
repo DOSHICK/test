@@ -17,6 +17,9 @@
   },
   "homepage": "https://github.com/6486127/test#readme",
   "devDependencies": {
-    "gulp": "^4.0.2"
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^8.0.0",
+    "gulp-cssbeautify": "^3.0.1",
+    "gulp-strip-css-comments": "^2.0.0"
   }
 }
