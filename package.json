@@ -1,0 +1,19 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "test Zubritckiy Ivan",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/6486127/test.git"
+  },
+  "author": "Ivan Zubritckiy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/6486127/test/issues"
+  },
+  "homepage": "https://github.com/6486127/test#readme"
+}
